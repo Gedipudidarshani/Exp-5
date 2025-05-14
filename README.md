@@ -29,4 +29,4 @@ Create the following diagrams in StarUML:
 
 
 ## RESULT:
-Thus, the UML diagrams for Hospital Management System has been created successfully.
+Thus, the UML diagrams for Student Enrollment System has been created successfully.
